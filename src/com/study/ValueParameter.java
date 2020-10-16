@@ -16,7 +16,7 @@ public class ValueParameter {
 		ValueParameter vp = new ValueParameter();
 		
 		int var2 = vp.increase(100);
-System.out.println(var2);
+          System.out.println(var2);
 		
 	}
 
